@@ -1,4 +1,4 @@
-# 
+# Código abierto liquidation sniper bot scripts para Mac OS | Oficial liquidation sniper bot scripts para PC Windows. Con seguimiento de cartera y soporte de margen aislado — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
